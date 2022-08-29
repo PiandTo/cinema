@@ -22,12 +22,15 @@
     <li>mvn org.codehaus.cargo:cargo-maven3-plugin:run</li>
 </ul>
 
-
 <h3>Start page</h3>
-![](/Cinema/index.png?raw=true "Index_page")
+
+![Index_page](/Cinema/index.png?raw=true "Index_page")
 <h3>Profile page</h3>
-![](/Cinema/profile.png?raw=true "Profile_page")
+
+![Profile_page](/Cinema/profile.png?raw=true "Profile_page")
 <h3>Film page</h3>
-![](/Cinema/films.png?raw=true "Film_page")
+
+![Film_page](/Cinema/films.png?raw=true "Film_page")
 <h3>Chat page</h3>
-![](/Cinema/chat.png?raw=true "Chat_page")
+
+![Chat_page](/Cinema/chat.png?raw=true "Chat_page")
